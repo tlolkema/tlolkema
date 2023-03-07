@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! 👋 
 
-<!--
-**tlolkema/tlolkema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tim, living in Amsterdam and I'm passionate about coding, test automation, and CI/CD. My main languages are Python, Typescript and JavaScript.
 
-Here are some ideas to get you started:
+- Currently playing around with Rust & Golang
+- Enabling quality on all levels: unit, component, integration and end-to-end
+- Making sure everything will run [**Blazingly Fast**](https://www.youtube.com/watch?v=Z0GX2mTUtfo&list=RDCMUC8ENHE5xdFSwx71u3fDH5Xw) in CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+</div>
+<br />
+
+```typescript
+export const qualityAssuranceAutomationEngineer: Developer = {
+  firstName: 'Tim',
+  role: 'Quality Assurance Automation Engineer',
+  languages: ['JavaScript', 'TypeScript', 'Python'],
+  frameworks: ['Cypress', 'Playwright', 'Jest', 'Robot Framework'],
+  ci: ['GitHub', 'Jenkins', 'GitLab']
+}
+```
