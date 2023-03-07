@@ -1,4 +1,4 @@
-### Hi there! 👋 
+<h1 align="center"> Hi there! 👋 </h1>
 
 I'm Tim, living in Amsterdam and I'm passionate about coding, test automation, and CI/CD. My main languages are Python, Typescript and JavaScript.
 
