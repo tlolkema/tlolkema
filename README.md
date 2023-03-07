@@ -15,11 +15,15 @@ I'm Tim, living in Amsterdam and I'm passionate about coding, test automation, a
 <br />
 
 ```typescript
-export const qualityAssuranceAutomationEngineer: Developer = {
-  firstName: 'Tim',
-  role: 'Quality Assurance Automation Engineer',
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  frameworks: ['Cypress', 'Playwright', 'Jest', 'Robot Framework'],
-  ci: ['GitHub', 'Jenkins', 'GitLab']
+const getGitHubProfile = (): Developer => {
+  return {
+    firstName: 'Tim',
+    role: 'Quality Assurance Automation Engineer',
+    languages: ['JavaScript', 'TypeScript', 'Python'],
+    technologies: ['Cypress', 'Playwright', 'Jest', 'Robot Framework'],
+    ci: ['GitHub', 'Jenkins', 'GitLab']
+  }
 }
+
+getGitHubProfile()
 ```
